@@ -488,6 +488,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-bottom: 10px;
 }
 
+#about .about-container .background3 {
+  min-height: 300px;
+  background: url(../img/4.jpg) center no-repeat;
+  margin-bottom: 10px;
+}
+
 #about .about-container .content {
   background: #fff;
 }
@@ -563,6 +569,18 @@ body.mobile-nav-active #mobile-nav-toggle {
 #about2 .about-container .background {
   min-height: 300px;
   background: url(../img/2.jpg) center no-repeat;
+  margin-bottom: 10px;
+}
+
+#about2 .about-container .background2 {
+  min-height: 300px;
+  background: url(../img/3.jpg) center no-repeat;
+  margin-bottom: 10px;
+}
+
+#about2 .about-container .background4 {
+  min-height: 300px;
+  background: url(../img/5.jpg) center no-repeat;
   margin-bottom: 10px;
 }
 
