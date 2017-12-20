@@ -419,11 +419,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #mobile-nav ul .menu-has-children i.fa-chevron-up {
-  color: #2dc997;
+  color: #b0616d;
 }
 
 #mobile-nav ul .menu-item-active {
-  color: #2dc997;
+  color: #b0616d;
 }
 
 #mobile-body-overly {
@@ -472,6 +472,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 /* About Us Section
 --------------------------------*/
+.iloveyou {
+  font-family: 'Great Vibes', cursive;
+  font-size: 2.5em;
+}
+
 #about1-1 {
   background: #fff;
   padding: 80px 0;
@@ -546,14 +551,200 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 /* About Us 1-2
 --------------------------------*/
-#about1-2 {
+#about1, #about2, #about3, #about4, #about5, #about6, #about7, #about8, #about9, #about10, #about11, #about12, #about13, #about14, #about15, #about16, #about17, #about18, #about19, #about20, #about21, #about22, #about23, #about24, #about25, #about26, #about27 #about28, #about29, #about30, #about31, #about32, #about33, #about34 {
   background: #fff;
   padding: 80px 0;
 }
 
-#about1-2 .about-container .background {
+#about1 .about-container .background {
   min-height: 400px;
-  background: url(../img/1-1.jpg) center no-repeat;
+  background: url(../img/1.jpg) center no-repeat;
+  margin-bottom: 10px;
+}
+
+#about2 .about-container .background {
+  min-height: 400px;
+  background: url(../img/2.jpg) center no-repeat;
+  margin-bottom: 10px;
+}
+
+#about3 .about-container .background {
+  min-height: 400px;
+  background: url(../img/3.jpg) center no-repeat;
+  margin-bottom: 10px;
+}
+
+#about4 .about-container .background {
+  min-height: 400px;
+  background: url(../img/4.jpg) center no-repeat;
+  margin-bottom: 10px;
+}
+
+#about5 .about-container .background {
+  min-height: 400px;
+  background: url(../img/5.jpg) center no-repeat;
+  margin-bottom: 10px;
+}
+
+#about6 .about-container .background {
+  min-height: 400px;
+  background: url(../img/6.jpg) center no-repeat;
+  margin-bottom: 10px;
+}
+
+#about7 .about-container .background {
+  min-height: 400px;
+  background: url(../img/7.jpg) center no-repeat;
+  margin-bottom: 10px;
+}
+
+#about8 .about-container .background {
+  min-height: 400px;
+  background: url(../img/8.jpg) center no-repeat;
+  margin-bottom: 10px;
+}
+
+#about9 .about-container .background {
+  min-height: 400px;
+  background: url(../img/9.jpg) center no-repeat;
+  margin-bottom: 10px;
+}
+
+#about10 .about-container .background {
+  min-height: 400px;
+  background: url(../img/10.jpg) center no-repeat;
+  margin-bottom: 10px;
+}
+
+#about11 .about-container .background {
+  min-height: 400px;
+  background: url(../img/11.jpg) center no-repeat;
+  margin-bottom: 10px;
+}
+
+#about12 .about-container .background {
+  min-height: 400px;
+  background: url(../img/12.jpg) center no-repeat;
+  margin-bottom: 10px;
+}
+
+#about13 .about-container .background {
+  min-height: 400px;
+  background: url(../img/13.jpg) center no-repeat;
+  margin-bottom: 10px;
+}
+
+#about14 .about-container .background {
+  min-height: 400px;
+  background: url(../img/14.jpg) center no-repeat;
+  margin-bottom: 10px;
+}
+
+#about15 .about-container .background {
+  min-height: 400px;
+  background: url(../img/15.jpg) center no-repeat;
+  margin-bottom: 10px;
+}
+
+#about16 .about-container .background {
+  min-height: 400px;
+  background: url(../img/16.jpg) center no-repeat;
+  margin-bottom: 10px;
+}
+
+#about17 .about-container .background {
+  min-height: 400px;
+  background: url(../img/17.jpg) center no-repeat;
+  margin-bottom: 10px;
+}
+
+#about18 .about-container .background {
+  min-height: 400px;
+  background: url(../img/18.jpg) center no-repeat;
+  margin-bottom: 10px;
+}
+
+#about19 .about-container .background {
+  min-height: 400px;
+  background: url(../img/19.jpg) center no-repeat;
+  margin-bottom: 10px;
+}
+
+#about20 .about-container .background {
+  min-height: 400px;
+  background: url(../img/20.jpg) center no-repeat;
+  margin-bottom: 10px;
+}
+
+#about21 .about-container .background {
+  min-height: 400px;
+  background: url(../img/21.jpg) center no-repeat;
+  margin-bottom: 10px;
+}
+
+#about22 .about-container .background {
+  min-height: 400px;
+  background: url(../img/22.jpg) center no-repeat;
+  margin-bottom: 10px;
+}
+
+#about23 .about-container .background {
+  min-height: 400px;
+  background: url(../img/23.jpg) center no-repeat;
+  margin-bottom: 10px;
+}
+
+#about24 .about-container .background {
+  min-height: 400px;
+  background: url(../img/24.jpg) center no-repeat;
+  margin-bottom: 10px;
+}
+
+#about25 .about-container .background {
+  min-height: 400px;
+  background: url(../img/25.jpg) center no-repeat;
+  margin-bottom: 10px;
+}
+
+#about26 .about-container .background {
+  min-height: 400px;
+  background: url(../img/26.jpg) center no-repeat;
+  margin-bottom: 10px;
+}
+
+#about27 .about-container .background {
+  min-height: 400px;
+  background: url(../img/27.jpg) center no-repeat;
+  margin-bottom: 10px;
+}
+
+#about28 .about-container .background {
+  min-height: 400px;
+  background: url(../img/28.jpg) center no-repeat;
+  margin-bottom: 10px;
+}
+
+#about29 .about-container .background {
+  min-height: 400px;
+  background: url(../img/29.jpg) center no-repeat;
+  margin-bottom: 10px;
+}
+
+#about30 .about-container .background {
+  min-height: 400px;
+  background: url(../img/30.jpg) center no-repeat;
+  margin-bottom: 10px;
+}
+
+#about31 .about-container .background {
+  min-height: 400px;
+  background: url(../img/31.jpg) center no-repeat;
+  margin-bottom: 10px;
+}
+
+#about32 .about-container .background {
+  min-height: 400px;
+  background: url(../img/32.jpg) center no-repeat;
   margin-bottom: 10px;
 }
 
@@ -623,12 +814,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 #about2-1 {
   background: #fff;
-  padding: 80px 0;
+  padding: 10px 0;
 }
 
 #about2-1 .about-container .background {
   min-height: 400px;
-  background: url(../img/2-2.jpg) center no-repeat;
+  background: url(../img/2-1.jpg) center no-repeat;
   margin-bottom: 10px;
 }
 
