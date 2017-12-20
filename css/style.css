@@ -14,11 +14,11 @@ body {
 }
 
 a {
-  color: #2dc997;
+  color: #d8b0b6;
 }
 
 a:hover, a:active, a:focus {
-  color: #2dca98;
+  color: #d8b0b6;
   outline: none;
   text-decoration: none;
 }
@@ -68,13 +68,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:focus {
-  background: rgba(0, 0, 0, 0.2);
+  background: #d8b0b6;
   color: #fff;
   outline: none;
 }
 
 .back-to-top:hover {
-  background: #2dc997;
+  background: #d8b0b6;
   color: #fff;
 }
 
